@@ -26,7 +26,7 @@ public class MainActivity extends ActionBarActivity {
 
         img = (ImageView)findViewById(R.id.image);
     }
-
+//11111111111111111111111111111111
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

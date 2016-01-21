@@ -17,7 +17,7 @@ import android.provider.MediaStore;
 
 public class MainActivity extends ActionBarActivity {
 
-	
+	//adsdddddddddddddd
 	ImageView img;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
